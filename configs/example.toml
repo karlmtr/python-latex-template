@@ -1,0 +1,26 @@
+[general]
+title = "A small exchange"
+description = "I can't say anything about that..."
+date = "23th August 1991"
+paid = false # if the amount is already paid
+
+[sender]
+name = "Nicolas Flamel"
+phone = "What's that"
+email = "nicolas@flamel.com"
+address_num = "51"
+address_road = "Rue de Montmorency"
+address_NPA = "75003"
+address_city = "Paris"
+
+[reciever]
+name = "Hogwarts"
+address_num = "Nowhere"
+address_road = "Just follow the Hogwarts Express"
+address_NPA = "1234"
+address_city = "Somewhere in Scotland"
+
+[content]
+"Philospher's Stone" = "100.00"
+"Stand for the Stone" = "50.00"
+
