@@ -11,5 +11,5 @@ python create_invoice.py <name of the configuration file> <name of the template 
 The script will compute de total amount automatically. 
 
 ## TODO :
-- [] Add configuration option for english version
-- [] Modular code to be able to use with different templates, not necessarly invoice. (separate templating and invoice section)
+- [ ] Add configuration option for english version
+- [ ] Modular code to be able to use with different templates, not necessarly invoice. (separate templating and invoice section)
