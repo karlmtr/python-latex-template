@@ -1,8 +1,13 @@
 # python-latex-template
 
-Latex templates using Python and TOML. In French (Swiss). 
+Latex templates using Python, TOML configuration files and Jinja2, the templating engine. 
 
-## How to use it
+## Requirements
+
+- Python
+- $\LaTeX$ (pdflatex, didn't try with the other TeX engines)
+
+## How to use it
 
 Insert the informations in the `.toml` configuration file. Then just run the `create_invoice.py` python script.
 ```bash
